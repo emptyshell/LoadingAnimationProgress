@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoadingAnimationProgress</string>
+    <string name="allDone">Activity loaded succesful</string>
+</resources>
